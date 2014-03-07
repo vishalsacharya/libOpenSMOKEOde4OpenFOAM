@@ -1,0 +1,3 @@
+ODESolvers/OpenSMOKE_Solvers.C
+
+LIB = $(FOAM_USER_LIBBIN)/libOpenSMOKEOde4OpenFOAM
